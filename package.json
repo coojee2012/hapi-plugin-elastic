@@ -10,15 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@gitlab.yunkefu.cc:10022/nodelmodules/hapi-plugin-mongo.git"
+    "url": "https://github.com/coojee2012/hapi-plugin-elastic.git"
   },
   "keywords": [
     "hapi",
-    "common",
+    "hapi plugin",
+    "common tools",
     "elasticsearch"
   ],
   "author": "Yong Lin",
-  "license": "MIT",
+  "license": "Apache 2.0",
   "dependencies": {
     "babel-polyfill": "^6.13.0",
     "elasticsearch": "^11.0.1",

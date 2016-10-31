@@ -12,7 +12,7 @@ npm install hapi-plugin-elastic
 ## Usage
 #### Don't forget
 ```js
-require('babel-polyfill'); // In your main prgrams where should use this module
+require('babel-polyfill'); // In your main programs where should use this module
 ```
 #### In your app
 ```js
